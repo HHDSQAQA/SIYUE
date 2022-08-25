@@ -2,7 +2,7 @@
   "train": {
     "log_interval": 200,
     "eval_interval": 1000,
-    "seed": 1234,
+    "seed": 114514,
     "epochs": 20000,
     "learning_rate": 2e-4,
     "betas": [0.8, 0.99],
@@ -49,6 +49,6 @@
     "n_layers_q": 3,
     "use_spectral_norm": false
   },
-  "speakers": ["\u30eb\u30a4\u30ba"],
+  "speakers": ["\u3042\u3084\u305b"],
   "symbols": ["_", ",", ".", "!", "?", "-", "~", "\u2026", "A", "E", "I", "N", "O", "Q", "U", "a", "b", "d", "e", "f", "g", "h", "i", "j", "k", "m", "n", "o", "p", "r", "s", "t", "u", "v", "w", "y", "z", "\u0283", "\u02a7", "\u02a6", "\u2193", "\u2191", " "]
 }
