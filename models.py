@@ -409,7 +409,7 @@ class SynthesizerTrn(nn.Module):
     upsample_rates, 
     upsample_initial_channel, 
     upsample_kernel_sizes,
-    n_speakers=1,
+    n_speakers=0,
     gin_channels=0,
     use_sdp=True,
     **kwargs):
