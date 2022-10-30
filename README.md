@@ -1,8 +1,9 @@
+#Source[Original](https://github.com/CjangCjengh/vits)
 # How to use
 (Suggestion) Python == 3.7
 ## Clone this repository
 ```sh
-git clone https://github.com/CjangCjengh/vits.git
+git clone https://github.com/kagura114/vits.git
 ```
 ## Choose cleaners
 - Fill "text_cleaners" in config.json
